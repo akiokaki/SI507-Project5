@@ -1,1 +1,9 @@
 Put your Project 5 brief explanation, as directed, here.
+
+I am accessing the Tumblr search API and gathering:
+    - Generate 10 posts from my dashboard, 10 from my posts
+    - For each post, I'll be accessing the type, blog_name, and tags
+    - I'll write 2 CSV files, one for my dashboard, another for my posts
+    - Data in each CSV file: 3 columns -- liked, id, post_url
+    - URL for the API: https://api.tumblr.com/v2
+    - If necessary, URL describing the authentication process for the API: https://www.tumblr.com/docs/en/api/v2
